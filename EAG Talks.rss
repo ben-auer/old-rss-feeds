@@ -1,0 +1,895 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:anchor="https://anchor.fm/xmlns">
+	<channel>
+		<title><![CDATA[EAG Talks]]></title>
+		<description><![CDATA[Talks from EAG Global]]></description>
+		<link>https://podcasters.spotify.com/pod/show/eagtalks</link>
+		<image>
+			<url>https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/37921589/37921589-1685134100850-fc8f5bac6443c.jpg</url>
+			<title>EAG Talks</title>
+			<link>https://podcasters.spotify.com/pod/show/eagtalks</link>
+		</image>
+		<generator>Anchor Podcasts</generator>
+		<lastBuildDate>Tue, 18 Jul 2023 11:16:51 GMT</lastBuildDate>
+		<atom:link href="https://anchor.fm/s/e2a05734/podcast/rss" rel="self" type="application/rss+xml"/>
+		<author><![CDATA[Aaron Bergman]]></author>
+		<copyright><![CDATA[Aaron Bergman]]></copyright>
+		<language><![CDATA[en]]></language>
+		<atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
+		<itunes:author>Aaron Bergman</itunes:author>
+		<itunes:summary>Talks from EAG Global</itunes:summary>
+		<itunes:type>episodic</itunes:type>
+		<itunes:owner>
+			<itunes:name>Aaron Bergman</itunes:name>
+			<itunes:email>aaronbergman50@gmail.com</itunes:email>
+		</itunes:owner>
+		<itunes:explicit>No</itunes:explicit>
+		<itunes:category text="Society &amp; Culture">
+			<itunes:category text="Philosophy"/>
+		</itunes:category>
+		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/37921589/37921589-1685134100850-fc8f5bac6443c.jpg"/>
+		<item>
+			<title><![CDATA[Taking happiness seriously: Can we? Should we? A debate | Michael Plant, Mark Fabian | EAG London 23]]></title>
+			<description><![CDATA[<p>https://www.youtube.com/watch?v=xYIDzXLIfoM</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/eagtalks/episodes/Taking-happiness-seriously-Can-we--Should-we--A-debate--Michael-Plant--Mark-Fabian--EAG-London-23-e25r3ge</link>
+			<guid isPermaLink="false">151cab08-f338-4e1a-94a0-3625ffc0d681</guid>
+			<dc:creator><![CDATA[Aaron Bergman]]></dc:creator>
+			<pubDate>Sat, 17 Jun 2023 00:32:56 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/e2a05734/podcast/play/72240078/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-5-17%2Fa0e5bb2b-f00b-b206-465a-2a10308f206d.mp3" length="56115869" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;https://www.youtube.com/watch?v=xYIDzXLIfoM&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:58:27</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/37921589/37921589-1685134100850-fc8f5bac6443c.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Mistakes were made? A critical look at how EA approached AI safety | David Krueger | EAG London 23]]></title>
+			<description><![CDATA[<p>https://www.youtube.com/watch?v=kFkyW-Wo_gA</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/eagtalks/episodes/Mistakes-were-made--A-critical-look-at-how-EA-approached-AI-safety--David-Krueger--EAG-London-23-e25r3ft</link>
+			<guid isPermaLink="false">0f5d1ed3-9a5a-449c-ac99-86fb062e73ce</guid>
+			<dc:creator><![CDATA[Aaron Bergman]]></dc:creator>
+			<pubDate>Sat, 17 Jun 2023 00:32:23 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/e2a05734/podcast/play/72240061/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-5-17%2Fe1a09500-feed-71c2-cdcc-d025aa211dab.mp3" length="53833812" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;https://www.youtube.com/watch?v=kFkyW-Wo_gA&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:56:04</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/37921589/37921589-1685134100850-fc8f5bac6443c.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Academic research on global priorities | Eva Vivalt | EAG London 23]]></title>
+			<description><![CDATA[<p>https://www.youtube.com/watch?v=f0UlP1Ipuds</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/eagtalks/episodes/Academic-research-on-global-priorities--Eva-Vivalt--EAG-London-23-e25r3fd</link>
+			<guid isPermaLink="false">d6b17f6d-a072-4cfc-a56a-e54af6f842b6</guid>
+			<dc:creator><![CDATA[Aaron Bergman]]></dc:creator>
+			<pubDate>Sat, 17 Jun 2023 00:31:40 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/e2a05734/podcast/play/72240045/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-5-17%2Fe5152bbf-2a52-b114-0558-9d07dbe1e2c8.mp3" length="53551272" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;https://www.youtube.com/watch?v=f0UlP1Ipuds&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:55:46</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/37921589/37921589-1685134100850-fc8f5bac6443c.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Concrete open problems in mechanistic interpretability | Neel Nanda | EAG London 23]]></title>
+			<description><![CDATA[<p>https://www.youtube.com/watch?v=dR-dju32ViI</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/eagtalks/episodes/Concrete-open-problems-in-mechanistic-interpretability--Neel-Nanda--EAG-London-23-e25r3er</link>
+			<guid isPermaLink="false">58acb7ad-50c6-4151-a334-27dab0fb649c</guid>
+			<dc:creator><![CDATA[Aaron Bergman]]></dc:creator>
+			<pubDate>Sat, 17 Jun 2023 00:31:08 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/e2a05734/podcast/play/72240027/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-5-17%2Ffa79a5dc-e1b3-490d-80a5-b84c584c9898.mp3" length="50548235" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;https://www.youtube.com/watch?v=dR-dju32ViI&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:52:39</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/37921589/37921589-1685134100850-fc8f5bac6443c.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Modelling the future of AI | Jaime Sevilla | EAG London 23]]></title>
+			<description><![CDATA[<p>https://www.youtube.com/watch?v=bJvzt_nfjMI</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/eagtalks/episodes/Modelling-the-future-of-AI--Jaime-Sevilla--EAG-London-23-e25r3ec</link>
+			<guid isPermaLink="false">fa4cdfd3-c5be-427a-91ad-09f6d8d4ce3e</guid>
+			<dc:creator><![CDATA[Aaron Bergman]]></dc:creator>
+			<pubDate>Sat, 17 Jun 2023 00:30:18 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/e2a05734/podcast/play/72240012/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-5-17%2F956556fa-18a9-8705-2c9c-111b4ad3184b.mp3" length="51123765" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;https://www.youtube.com/watch?v=bJvzt_nfjMI&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:53:15</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/37921589/37921589-1685134100850-fc8f5bac6443c.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Shaping humanity's longterm trajectory | Toby Ord | EAG London 23]]></title>
+			<description><![CDATA[<p>https://www.youtube.com/watch?v=_QlmA9MuwcQ</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/eagtalks/episodes/Shaping-humanitys-longterm-trajectory--Toby-Ord--EAG-London-23-e25r3dq</link>
+			<guid isPermaLink="false">3fe86493-27bb-414d-aecf-4ef1e2d8b99f</guid>
+			<dc:creator><![CDATA[Aaron Bergman]]></dc:creator>
+			<pubDate>Sat, 17 Jun 2023 00:29:42 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/e2a05734/podcast/play/72239994/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-5-17%2F18009024-577d-b919-3335-d37317fca25a.mp3" length="52793094" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;https://www.youtube.com/watch?v=_QlmA9MuwcQ&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:54:59</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/37921589/37921589-1685134100850-fc8f5bac6443c.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Reducing lead exposure | Drew McCartor, Lucia Coulter, Rachel Silverman-Bonnifield | EAG London 23]]></title>
+			<description><![CDATA[<p>https://www.youtube.com/watch?v=WVXB2s5YW2Q</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/eagtalks/episodes/Reducing-lead-exposure--Drew-McCartor--Lucia-Coulter--Rachel-Silverman-Bonnifield--EAG-London-23-e25r3d5</link>
+			<guid isPermaLink="false">8d0d025a-5118-4eca-bc69-65b9fa6b52de</guid>
+			<dc:creator><![CDATA[Aaron Bergman]]></dc:creator>
+			<pubDate>Sat, 17 Jun 2023 00:29:04 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/e2a05734/podcast/play/72239973/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-5-17%2F194c1855-c450-c765-1105-c432976b968c.mp3" length="53029241" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;https://www.youtube.com/watch?v=WVXB2s5YW2Q&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:55:14</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/37921589/37921589-1685134100850-fc8f5bac6443c.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Strengthening the Biological Weapons Convention | Ryan Teo, Nils Justen | EAG London 23]]></title>
+			<description><![CDATA[<p>https://www.youtube.com/watch?v=SmxpG9b5WuM</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/eagtalks/episodes/Strengthening-the-Biological-Weapons-Convention--Ryan-Teo--Nils-Justen--EAG-London-23-e25r3ci</link>
+			<guid isPermaLink="false">33f65218-cae0-44d6-a916-9150db8c5c32</guid>
+			<dc:creator><![CDATA[Aaron Bergman]]></dc:creator>
+			<pubDate>Sat, 17 Jun 2023 00:28:22 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/e2a05734/podcast/play/72239954/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-5-17%2F9c1a13f9-2c66-b036-869d-82c10de9917b.mp3" length="54138505" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;https://www.youtube.com/watch?v=SmxpG9b5WuM&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:56:23</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/37921589/37921589-1685134100850-fc8f5bac6443c.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Fireside chat: Rear Admiral John Gower | John Gower | EAG London 23]]></title>
+			<description><![CDATA[<p>https://www.youtube.com/watch?v=NWY9V0q12jE</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/eagtalks/episodes/Fireside-chat-Rear-Admiral-John-Gower--John-Gower--EAG-London-23-e25r3bu</link>
+			<guid isPermaLink="false">ee8d2d4a-9a48-4e8a-94ed-2865283a3280</guid>
+			<dc:creator><![CDATA[Aaron Bergman]]></dc:creator>
+			<pubDate>Sat, 17 Jun 2023 00:27:36 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/e2a05734/podcast/play/72239934/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-5-17%2F2f6c8792-2358-363d-b833-ccdbf3375e31.mp3" length="51476523" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;https://www.youtube.com/watch?v=NWY9V0q12jE&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:53:37</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/37921589/37921589-1685134100850-fc8f5bac6443c.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Panel on nuclear risk | Rear Admiral John Gower, Patricia Lewis, Paul Ingram | EAG London 23]]></title>
+			<description><![CDATA[<p>https://www.youtube.com/watch?v=GablQxDqoTQ&amp;list=PLwp9xeoX5p8MbksBvu_R_IOz6kD4H7ytC&amp;index=12</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/eagtalks/episodes/Panel-on-nuclear-risk--Rear-Admiral-John-Gower--Patricia-Lewis--Paul-Ingram--EAG-London-23-e25r3bf</link>
+			<guid isPermaLink="false">7ba42467-2013-4be8-a006-086535a87fe4</guid>
+			<dc:creator><![CDATA[Aaron Bergman]]></dc:creator>
+			<pubDate>Sat, 17 Jun 2023 00:26:50 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/e2a05734/podcast/play/72239919/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-5-17%2F5ac04184-bf09-ff27-41ac-91e89cd5585d.mp3" length="54468692" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;https://www.youtube.com/watch?v=GablQxDqoTQ&amp;amp;list=PLwp9xeoX5p8MbksBvu_R_IOz6kD4H7ytC&amp;amp;index=12&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:56:44</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/37921589/37921589-1685134100850-fc8f5bac6443c.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Charity evaluation and its future | GiveWell, ACE, Founders Pledge, GWWC | EAG London 23]]></title>
+			<description><![CDATA[<p>https://www.youtube.com/watch?v=BiPUBkDPyUQ</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/eagtalks/episodes/Charity-evaluation-and-its-future--GiveWell--ACE--Founders-Pledge--GWWC--EAG-London-23-e25r3al</link>
+			<guid isPermaLink="false">5fefb474-04b3-45fb-9a28-22f7582f123e</guid>
+			<dc:creator><![CDATA[Aaron Bergman]]></dc:creator>
+			<pubDate>Sat, 17 Jun 2023 00:26:16 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/e2a05734/podcast/play/72239893/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-5-17%2F622d0988-ec62-63cd-ef70-46c8d44b681d.mp3" length="53949169" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;https://www.youtube.com/watch?v=BiPUBkDPyUQ&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:56:11</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/37921589/37921589-1685134100850-fc8f5bac6443c.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Caged hen campaigns in Europe | Kirsty Henderson, Sean Gifford, Sophie de Jonckheere | EAG London 23]]></title>
+			<description><![CDATA[<p>https://www.youtube.com/watch?v=pYrsQTwxdZE</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/eagtalks/episodes/Caged-hen-campaigns-in-Europe--Kirsty-Henderson--Sean-Gifford--Sophie-de-Jonckheere--EAG-London-23-e25r3a4</link>
+			<guid isPermaLink="false">e1a5e6e9-b4c8-4ea4-8aba-06e539b4019d</guid>
+			<dc:creator><![CDATA[Aaron Bergman]]></dc:creator>
+			<pubDate>Sat, 17 Jun 2023 00:25:32 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/e2a05734/podcast/play/72239876/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-5-17%2Ff374bdf7-2fc1-096f-7a62-446ee48d379d.mp3" length="58123745" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;https://www.youtube.com/watch?v=pYrsQTwxdZE&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>01:00:32</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/37921589/37921589-1685134100850-fc8f5bac6443c.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Fireside chat with Matt Clifford | Matt Clifford | EAG London 23]]></title>
+			<description><![CDATA[<p>https://www.youtube.com/watch?v=YJDlE3-IKNc</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/eagtalks/episodes/Fireside-chat-with-Matt-Clifford--Matt-Clifford--EAG-London-23-e25r39k</link>
+			<guid isPermaLink="false">b921a2a1-48fd-4eb3-9ac6-b672d0a1383e</guid>
+			<dc:creator><![CDATA[Aaron Bergman]]></dc:creator>
+			<pubDate>Sat, 17 Jun 2023 00:24:32 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/e2a05734/podcast/play/72239860/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-5-17%2F6f0e679e-3309-2c48-1e3b-039b7c906103.mp3" length="42300229" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;https://www.youtube.com/watch?v=YJDlE3-IKNc&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:44:03</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/37921589/37921589-1685134100850-fc8f5bac6443c.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Workshop How to prioritize Renan Araujo Marie Buhl Jam Kraprayoon EAG London 23]]></title>
+			<description><![CDATA[<p>https://www.youtube.com/watch?v=H-_ucImfS4c</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/eagtalks/episodes/Workshop-How-to-prioritize-Renan-Araujo-Marie-Buhl-Jam-Kraprayoon-EAG-London-23-e25r397</link>
+			<guid isPermaLink="false">77a62b52-ad57-44cd-a1db-42e6087b623e</guid>
+			<dc:creator><![CDATA[Aaron Bergman]]></dc:creator>
+			<pubDate>Sat, 17 Jun 2023 00:23:50 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/e2a05734/podcast/play/72239847/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-5-17%2F075779cd-bca9-8fb9-577f-45e225faf4ac.mp3" length="26948170" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;https://www.youtube.com/watch?v=H-_ucImfS4c&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:28:04</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/37921589/37921589-1685134100850-fc8f5bac6443c.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Workshop Becoming our best selves S Schmidt P Rohde D Pourtahmaseb-Sasi EAG London 23]]></title>
+			<description><![CDATA[<p>https://www.youtube.com/watch?v=kDA4Ue_3S90</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/eagtalks/episodes/Workshop-Becoming-our-best-selves-S-Schmidt-P-Rohde-D-Pourtahmaseb-Sasi-EAG-London-23-e25r390</link>
+			<guid isPermaLink="false">cae60685-cda8-41f3-8f0f-e7d8e08db2bc</guid>
+			<dc:creator><![CDATA[Aaron Bergman]]></dc:creator>
+			<pubDate>Sat, 17 Jun 2023 00:23:08 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/e2a05734/podcast/play/72239840/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-5-17%2F5c4fd835-327a-e8a7-5269-652d08ce4d03.mp3" length="10863429" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;https://www.youtube.com/watch?v=kDA4Ue_3S90&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:11:18</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/37921589/37921589-1685134100850-fc8f5bac6443c.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Lightning talks Thinking outside the EA cause area box EAG London 23]]></title>
+			<description><![CDATA[<p>https://www.youtube.com/watch?v=eVB63ktLt10</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/eagtalks/episodes/Lightning-talks-Thinking-outside-the-EA-cause-area-box-EAG-London-23-e25r36u</link>
+			<guid isPermaLink="false">278450ac-b602-45db-bbb7-4aa3a1e6f908</guid>
+			<dc:creator><![CDATA[Aaron Bergman]]></dc:creator>
+			<pubDate>Sat, 17 Jun 2023 00:21:01 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/e2a05734/podcast/play/72239774/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-5-17%2F07636354-9426-ad37-08e2-4b28dfc14b44.mp3" length="38670253" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;https://www.youtube.com/watch?v=eVB63ktLt10&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:40:16</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/37921589/37921589-1685134100850-fc8f5bac6443c.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[First timers at EA Global Anubhuti Jain EAG London 23.mp3]]></title>
+			<description><![CDATA[<p>https://www.youtube.com/watch?v=_BPhLz_U4iQ</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/eagtalks/episodes/First-timers-at-EA-Global-Anubhuti-Jain-EAG-London-23-mp3-e25r357</link>
+			<guid isPermaLink="false">891f849d-2286-4176-9177-9019b3a1222c</guid>
+			<dc:creator><![CDATA[Aaron Bergman]]></dc:creator>
+			<pubDate>Sat, 17 Jun 2023 00:19:54 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/e2a05734/podcast/play/72239719/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-5-17%2Fd2d6fccb-2df9-2a81-b56b-45c4728e4535.mp3" length="9950606" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;https://www.youtube.com/watch?v=_BPhLz_U4iQ&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:10:21</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/37921589/37921589-1685134100850-fc8f5bac6443c.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Getting traction on great power risks Adam Thomson EAG London 23]]></title>
+			<description><![CDATA[<p>https://www.youtube.com/watch?v=T0VsAN1SnAg</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/eagtalks/episodes/Getting-traction-on-great-power-risks-Adam-Thomson-EAG-London-23-e25r34g</link>
+			<guid isPermaLink="false">3b08aed5-a7e5-49df-b503-bc7962b357e0</guid>
+			<dc:creator><![CDATA[Aaron Bergman]]></dc:creator>
+			<pubDate>Sat, 17 Jun 2023 00:18:11 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/e2a05734/podcast/play/72239696/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-5-17%2F70d9b1c9-27ac-d4a4-3c7e-bfe25e9b3c3a.mp3" length="46859327" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;https://www.youtube.com/watch?v=T0VsAN1SnAg&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:48:48</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/37921589/37921589-1685134100850-fc8f5bac6443c.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Opening session Karolina Sarek EAG London 23]]></title>
+			<description><![CDATA[<p>https://www.youtube.com/watch?v=R_LpUDTiGuk</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/eagtalks/episodes/Opening-session-Karolina-Sarek-EAG-London-23-e25r344</link>
+			<guid isPermaLink="false">72d57630-eade-4b88-8320-0095a86d1db1</guid>
+			<dc:creator><![CDATA[Aaron Bergman]]></dc:creator>
+			<pubDate>Sat, 17 Jun 2023 00:17:25 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/e2a05734/podcast/play/72239684/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-5-17%2F309e64a1-9f96-f8d6-4196-ec4d5cfb64c5.mp3" length="31685319" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;https://www.youtube.com/watch?v=R_LpUDTiGuk&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:33:00</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/37921589/37921589-1685134100850-fc8f5bac6443c.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Longtermism and alternative proteins Bruce Friedrich EAG London 23]]></title>
+			<description><![CDATA[<p>https://www.youtube.com/watch?v=9nIDy6tiR7o </p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/eagtalks/episodes/Longtermism-and-alternative-proteins-Bruce-Friedrich-EAG-London-23-e25r2vt</link>
+			<guid isPermaLink="false">99b7e45b-78c9-48aa-a5d9-f22afeac12a2</guid>
+			<dc:creator><![CDATA[Aaron Bergman]]></dc:creator>
+			<pubDate>Sat, 17 Jun 2023 00:13:09 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/e2a05734/podcast/play/72239549/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-5-17%2F3ce67502-1f22-933e-4091-5cb833e8a49b.mp3" length="47020660" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;https://www.youtube.com/watch?v=9nIDy6tiR7o &lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:48:58</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/37921589/37921589-1685134100850-fc8f5bac6443c.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Closing session | Marcus Davis and Peter Wildeford | EAG Bay Area 23]]></title>
+			<description><![CDATA[<p><a href="https://youtu.be/WmD5cQ9e_So" target="_blank" rel="noopener noreferer">Watch on Youtube</a></p>
+<p>The final session of the conference includes some closing words, followed by an update from Marcus &amp; Peter on what they&#39;re doing at Rethink Priorities and what they&#39;re excited about.</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/eagtalks/episodes/Closing-session--Marcus-Davis-and-Peter-Wildeford--EAG-Bay-Area-23-e24oerk</link>
+			<guid isPermaLink="false">91e7fe9b-ee87-47b2-83e9-f8c8fbfd0917</guid>
+			<dc:creator><![CDATA[Aaron Bergman]]></dc:creator>
+			<pubDate>Fri, 26 May 2023 21:30:13 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/e2a05734/podcast/play/71104820/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-4-26%2F3309339c-e322-746d-4612-fd8e062ecdf8.mp3" length="38619680" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;&lt;a href=&quot;https://youtu.be/WmD5cQ9e_So&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;Watch on Youtube&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The final session of the conference includes some closing words, followed by an update from Marcus &amp;amp; Peter on what they&amp;#39;re doing at Rethink Priorities and what they&amp;#39;re excited about.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:40:13</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/37921589/37921589-1685134100850-fc8f5bac6443c.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[How EA can impactfully engage in climate | Johannes Ackva & Armond Cohen | EAG Bay Area 23]]></title>
+			<description><![CDATA[<p><a href="https://youtu.be/h8tPC0VsirE" target="_blank" rel="noopener noreferer">Watch on Youtube</a></p>
+<p><br></p>
+<p>This session is exploring how effective altruism can uncover high impact but neglected solutions and organizations, using the case study of the Clean Air Task Force (CATF), a global climate organization. 
+
+Prior to 2018, CATF was effective but small, relatively unnoticed and underfunded. Founders Pledge scrutinized and validated CATF&#39;s work ithrough EA methodology and recommended it as a worthy charity; this endorsement and FP networking has allowed CATF to scale rapidly to global impact. 
+
+This talk is exploring what we can learn from this, for climate and beyond, about impactfully engaging in causes that are not meeting typical neglectedness criteria.</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/eagtalks/episodes/How-EA-can-impactfully-engage-in-climate--Johannes-Ackva--Armond-Cohen--EAG-Bay-Area-23-e24oeqo</link>
+			<guid isPermaLink="false">c635aa51-5499-46ed-b217-6d9fcaa9b52f</guid>
+			<dc:creator><![CDATA[Aaron Bergman]]></dc:creator>
+			<pubDate>Fri, 26 May 2023 21:29:39 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/e2a05734/podcast/play/71104792/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-4-26%2F22a390e6-1e0b-63e1-3f1c-1bde0ab30149.mp3" length="53092353" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;&lt;a href=&quot;https://youtu.be/h8tPC0VsirE&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;Watch on Youtube&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;This session is exploring how effective altruism can uncover high impact but neglected solutions and organizations, using the case study of the Clean Air Task Force (CATF), a global climate organization. 
+
+Prior to 2018, CATF was effective but small, relatively unnoticed and underfunded. Founders Pledge scrutinized and validated CATF&amp;#39;s work ithrough EA methodology and recommended it as a worthy charity; this endorsement and FP networking has allowed CATF to scale rapidly to global impact. 
+
+This talk is exploring what we can learn from this, for climate and beyond, about impactfully engaging in causes that are not meeting typical neglectedness criteria.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:55:18</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/37921589/37921589-1685134100850-fc8f5bac6443c.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Safety evaluations and standards for AI | Beth Barnes | EAG Bay Area 23]]></title>
+			<description><![CDATA[<p><a href="https://youtu.be/Vb5g7jlNzOk" target="_blank" rel="noopener noreferer">Watch on Youtube</a></p>
+<p><br></p>
+<p>Beth is describing the work of the Evaluations team at the Alignment Research Center (ARC) on developing evaluations of safety for cutting edge models, and on developing standards for scaling or deploying models conditional on the results of those evaluations.
+
+Beth got into EA via Givewell and Giving What We Can around 2014. After realizing AI might be a big deal she studied computer science, and worked on AI safety at DeepMind and OpenAI. She now leads the Evaluations team at the Alignment Research Center under Paul Christiano.</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/eagtalks/episodes/Safety-evaluations-and-standards-for-AI--Beth-Barnes--EAG-Bay-Area-23-e24oepq</link>
+			<guid isPermaLink="false">a59d8cd7-886d-4bdc-8ca1-cc164caf6d00</guid>
+			<dc:creator><![CDATA[Aaron Bergman]]></dc:creator>
+			<pubDate>Fri, 26 May 2023 21:29:04 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/e2a05734/podcast/play/71104762/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-4-26%2F3bb7d7de-22b9-388f-130d-54cb4ce7bc04.mp3" length="31042080" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;&lt;a href=&quot;https://youtu.be/Vb5g7jlNzOk&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;Watch on Youtube&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Beth is describing the work of the Evaluations team at the Alignment Research Center (ARC) on developing evaluations of safety for cutting edge models, and on developing standards for scaling or deploying models conditional on the results of those evaluations.
+
+Beth got into EA via Givewell and Giving What We Can around 2014. After realizing AI might be a big deal she studied computer science, and worked on AI safety at DeepMind and OpenAI. She now leads the Evaluations team at the Alignment Research Center under Paul Christiano.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:32:20</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/37921589/37921589-1685134100850-fc8f5bac6443c.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Reducing animal suffering in countries of the Global South | Carolina Galvani | EAG Bay Area 23]]></title>
+			<description><![CDATA[<p><a href="https://youtu.be/RQGvQdo_i8c" target="_blank" rel="noopener noreferer">Watch on Youtube</a></p>
+<p><br></p>
+<p>In this session, Carolina is presenting the importance of the work of animal protection NGOs in low and middle-income countries and the challenges and successes of the NGO Sinergia Animal and partner entities in Latin American and Southeast Asian countries in efforts directed at helping farmed animals.</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/eagtalks/episodes/Reducing-animal-suffering-in-countries-of-the-Global-South--Carolina-Galvani--EAG-Bay-Area-23-e24oeos</link>
+			<guid isPermaLink="false">caf2d606-f885-4c2f-8159-7ac81cbadc15</guid>
+			<dc:creator><![CDATA[Aaron Bergman]]></dc:creator>
+			<pubDate>Fri, 26 May 2023 21:28:30 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/e2a05734/podcast/play/71104732/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-4-26%2F02cf0048-c4b3-b73f-c394-54f122029adb.mp3" length="39919533" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;&lt;a href=&quot;https://youtu.be/RQGvQdo_i8c&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;Watch on Youtube&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;In this session, Carolina is presenting the importance of the work of animal protection NGOs in low and middle-income countries and the challenges and successes of the NGO Sinergia Animal and partner entities in Latin American and Southeast Asian countries in efforts directed at helping farmed animals.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:41:34</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/37921589/37921589-1685134100850-fc8f5bac6443c.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Potential pitfalls in university EA community building | Jessica McCurdy | EAG Bay Area 23]]></title>
+			<description><![CDATA[<p><a href="https://youtu.be/T-jnz6FVFfQ" target="_blank" rel="noopener noreferer">Watch on Youtube</a></p>
+<p><br></p>
+<p>In this talk, Jessica is dicussing some of the pitfalls and risks associated with community building at universities. She is discussing how some community building might be net negative and why she doesn&#39;t think community building should be the default option for university students interested in EA. While she claims that university groups can be highly impactful, she also claims that it should be done carefully. This talk is focusing on universities but contains some points that may generalize to other types of community building.
+
+Jessica graduated from Yale in 2021 with a BS in Cognitive Science. There, she helped organize Yale EA for over four years including a gap semester where she worked on it full-time. She had been volunteering with CEA since 2018 and started working full time in December 2021 on increasing broad support for uni groups. She created and scaled the university group accelerator program which has helped around 75 groups. She is now leading the uni groups team at CEA and is setting the strategy and plans for the coming year.</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/eagtalks/episodes/Potential-pitfalls-in-university-EA-community-building--Jessica-McCurdy--EAG-Bay-Area-23-e24oeo0</link>
+			<guid isPermaLink="false">f77c2c96-e9a4-4e98-8a99-a526555d9ee2</guid>
+			<dc:creator><![CDATA[Aaron Bergman]]></dc:creator>
+			<pubDate>Fri, 26 May 2023 21:28:03 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/e2a05734/podcast/play/71104704/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-4-26%2F1c1bb431-2ee5-78c1-3196-a0dfa440d07e.mp3" length="51947563" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;&lt;a href=&quot;https://youtu.be/T-jnz6FVFfQ&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;Watch on Youtube&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;In this talk, Jessica is dicussing some of the pitfalls and risks associated with community building at universities. She is discussing how some community building might be net negative and why she doesn&amp;#39;t think community building should be the default option for university students interested in EA. While she claims that university groups can be highly impactful, she also claims that it should be done carefully. This talk is focusing on universities but contains some points that may generalize to other types of community building.
+
+Jessica graduated from Yale in 2021 with a BS in Cognitive Science. There, she helped organize Yale EA for over four years including a gap semester where she worked on it full-time. She had been volunteering with CEA since 2018 and started working full time in December 2021 on increasing broad support for uni groups. She created and scaled the university group accelerator program which has helped around 75 groups. She is now leading the uni groups team at CEA and is setting the strategy and plans for the coming year.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:54:06</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/37921589/37921589-1685134100850-fc8f5bac6443c.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[The current alignment plan, and how we might improve it | Buck Shlegeris | EAG Bay Area 23]]></title>
+			<description><![CDATA[<p><a href="https://youtu.be/YTlrPeikoyw" target="_blank" rel="noopener noreferer">Watch on Youtube</a></p>
+<p><br></p>
+<p>In this session, Buck is discussing how he thinks we should try to align artificial general intelligence (AGI) if we made no more fundamental progress on alignment, and then talks about how he thinks alignment researchers should try to improve this plan and ensure that whatever plans are available are executed competently. 
+
+Buck is the CTO at Redwood Research, a nonprofit based in Berkeley which does technical alignment research. He spent most of the last year researching mechanistic interpretability and related alignment techniques. He previously worked at MIRI and was a fund manager for the EA Infrastructure Fund.
+<br></p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/eagtalks/episodes/The-current-alignment-plan--and-how-we-might-improve-it--Buck-Shlegeris--EAG-Bay-Area-23-e24oemp</link>
+			<guid isPermaLink="false">1b858147-a4b6-48ff-9728-dd4c9908a7ab</guid>
+			<dc:creator><![CDATA[Aaron Bergman]]></dc:creator>
+			<pubDate>Fri, 26 May 2023 21:27:21 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/e2a05734/podcast/play/71104665/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-4-26%2F2ebeb98e-652e-4718-a90a-166120615198.mp3" length="48419987" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;&lt;a href=&quot;https://youtu.be/YTlrPeikoyw&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;Watch on Youtube&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;In this session, Buck is discussing how he thinks we should try to align artificial general intelligence (AGI) if we made no more fundamental progress on alignment, and then talks about how he thinks alignment researchers should try to improve this plan and ensure that whatever plans are available are executed competently. 
+
+Buck is the CTO at Redwood Research, a nonprofit based in Berkeley which does technical alignment research. He spent most of the last year researching mechanistic interpretability and related alignment techniques. He previously worked at MIRI and was a fund manager for the EA Infrastructure Fund.
+&lt;br&gt;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:50:26</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/37921589/37921589-1685134100850-fc8f5bac6443c.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Beyond the bednets: Vida Plena and MHI | Joy Bittner & Ben Williamson | EAG Bay Area 23]]></title>
+			<description><![CDATA[<p><a href="https://youtu.be/YhLMHczxsHw" target="_blank" rel="noopener noreferer">Watch on Youtube</a></p>
+<p><br></p>
+<p>Neartermist EA has historically focused on a fairly narrow range of interventions, evaluating causes solely on their effects on physical health or income. However, this risks excluding a broad range of interventions that improve lives through other avenues. 
+
+In this talk, Joy Bittner (Vida Plena) and Ben Williamson (Maternal Health Initiative) are situating their work in broader conversations about the direction of the movement more broadly and are sharing lessons they’ve learned from launching evidence-based organizations.
+
+Maternal Health Initiative is an evidence-based organization committed to expanding access to family planning. Vida Plena is a non-profit which provides evidence-based depression treatment to local communities and refugees. Both organisations are former Charity Entrepreneurship incubatees. </p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/eagtalks/episodes/Beyond-the-bednets-Vida-Plena-and-MHI--Joy-Bittner--Ben-Williamson--EAG-Bay-Area-23-e24oelr</link>
+			<guid isPermaLink="false">cf506efb-b561-4130-9d49-bd473947015f</guid>
+			<dc:creator><![CDATA[Aaron Bergman]]></dc:creator>
+			<pubDate>Fri, 26 May 2023 21:26:35 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/e2a05734/podcast/play/71104635/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-4-26%2F1564e99a-c711-9789-0ca2-eb1e51bafc9f.mp3" length="50839553" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;&lt;a href=&quot;https://youtu.be/YhLMHczxsHw&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;Watch on Youtube&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Neartermist EA has historically focused on a fairly narrow range of interventions, evaluating causes solely on their effects on physical health or income. However, this risks excluding a broad range of interventions that improve lives through other avenues. 
+
+In this talk, Joy Bittner (Vida Plena) and Ben Williamson (Maternal Health Initiative) are situating their work in broader conversations about the direction of the movement more broadly and are sharing lessons they’ve learned from launching evidence-based organizations.
+
+Maternal Health Initiative is an evidence-based organization committed to expanding access to family planning. Vida Plena is a non-profit which provides evidence-based depression treatment to local communities and refugees. Both organisations are former Charity Entrepreneurship incubatees. &lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:52:57</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/37921589/37921589-1685134100850-fc8f5bac6443c.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[An overview of EA funding opportunities | Caleb Parikh | EAG Bay Area 23]]></title>
+			<description><![CDATA[<p><a href="https://youtu.be/eWxQHYn5zm0" target="_blank" rel="noopener noreferer">Watch on Youtube</a></p>
+<p><br></p>
+<p>In this talk, Caleb is giving an overview of funding opportunities for projects within global health and wellbeing, animal welfare, EA infrastructure and existential security. He then talks about projects that he and other grantmakers are particularly excited about funding and what he looks for when assessing applications. 
+
+Caleb Parikh is the interim project lead at EA Funds. Caleb previously worked on epistemic community health at the Centre for Effective Altruism. He also worked on EA community building and global health policy and occasionally assists researchers and the Global Priorities Institute with mathematical modelling. </p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/eagtalks/episodes/An-overview-of-EA-funding-opportunities--Caleb-Parikh--EAG-Bay-Area-23-e24oel4</link>
+			<guid isPermaLink="false">daa084d4-e436-4c47-a60e-febd71d95bdc</guid>
+			<dc:creator><![CDATA[Aaron Bergman]]></dc:creator>
+			<pubDate>Fri, 26 May 2023 21:26:02 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/e2a05734/podcast/play/71104612/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-4-26%2Fcb272b16-342a-4917-ee33-38c42dac9cc2.mp3" length="52143585" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;&lt;a href=&quot;https://youtu.be/eWxQHYn5zm0&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;Watch on Youtube&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;In this talk, Caleb is giving an overview of funding opportunities for projects within global health and wellbeing, animal welfare, EA infrastructure and existential security. He then talks about projects that he and other grantmakers are particularly excited about funding and what he looks for when assessing applications. 
+
+Caleb Parikh is the interim project lead at EA Funds. Caleb previously worked on epistemic community health at the Centre for Effective Altruism. He also worked on EA community building and global health policy and occasionally assists researchers and the Global Priorities Institute with mathematical modelling. &lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:54:18</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/37921589/37921589-1685134100850-fc8f5bac6443c.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[How to compare welfare across species | Bob Fischer | EAG Bay Area 23]]></title>
+			<description><![CDATA[<p><a href="https://youtu.be/pTlxm5BjRjA" target="_blank" rel="noopener noreferer">Watch on Youtube</a></p>
+<p>People farm a lot of pigs. They farm even more chickens. And if they don’t already, they’re soon to farm even more black soldier flies. How should EAs distribute their resources to address these problems? And how should EAs compare benefits to animals with benefits to humans? 
+
+This talk outlines a framework for answering these questions. Bob Fischer argues that we should use estimates of animals’ welfare ranges to compare how much good different interventions can accomplish. He also suggests some tentative welfare range estimates for several farmed species. </p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/eagtalks/episodes/How-to-compare-welfare-across-species--Bob-Fischer--EAG-Bay-Area-23-e24oej6</link>
+			<guid isPermaLink="false">070d78a0-973f-45a7-9998-54c4f36ce4f8</guid>
+			<dc:creator><![CDATA[Aaron Bergman]]></dc:creator>
+			<pubDate>Fri, 26 May 2023 21:25:24 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/e2a05734/podcast/play/71104550/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-4-26%2F7f892b83-6163-8f53-441a-6841a5707f7e.mp3" length="49626635" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;&lt;a href=&quot;https://youtu.be/pTlxm5BjRjA&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;Watch on Youtube&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;People farm a lot of pigs. They farm even more chickens. And if they don’t already, they’re soon to farm even more black soldier flies. How should EAs distribute their resources to address these problems? And how should EAs compare benefits to animals with benefits to humans? 
+
+This talk outlines a framework for answering these questions. Bob Fischer argues that we should use estimates of animals’ welfare ranges to compare how much good different interventions can accomplish. He also suggests some tentative welfare range estimates for several farmed species. &lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:51:41</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/37921589/37921589-1685134100850-fc8f5bac6443c.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Discovering AI Risks with AIs | Ethan Perez | EAG Bay Area 23]]></title>
+			<description><![CDATA[<p><a href="https://youtu.be/VbNPZoFe7ng" target="_blank" rel="noopener noreferer">Watch on Youtube</a></p>
+<p><br></p>
+<p>In this talk Ethan presents on how AI systems like ChatGPT can be used to help uncover potential risks in other AI systems, such as tendencies towards power-seeking, self-preservation, and sycophancy.
+Ethan is a research scientist and team lead at Anthropic working on large language models, and his work aims to reduce the risk of catastrophic outcomes from advanced machine learning systems. He also spend some time at New York University (NYU) collaborating with Sam Bowman&#39;s group on AI safety research. 
+<br></p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/eagtalks/episodes/Discovering-AI-Risks-with-AIs--Ethan-Perez--EAG-Bay-Area-23-e24oei7</link>
+			<guid isPermaLink="false">12912a0b-5fe3-4565-a15a-d551cf02d030</guid>
+			<dc:creator><![CDATA[Aaron Bergman]]></dc:creator>
+			<pubDate>Fri, 26 May 2023 21:24:18 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/e2a05734/podcast/play/71104519/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-4-26%2Fbd236cf4-44b0-7b67-a031-96cff44269b1.mp3" length="51750286" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;&lt;a href=&quot;https://youtu.be/VbNPZoFe7ng&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;Watch on Youtube&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;In this talk Ethan presents on how AI systems like ChatGPT can be used to help uncover potential risks in other AI systems, such as tendencies towards power-seeking, self-preservation, and sycophancy.
+Ethan is a research scientist and team lead at Anthropic working on large language models, and his work aims to reduce the risk of catastrophic outcomes from advanced machine learning systems. He also spend some time at New York University (NYU) collaborating with Sam Bowman&amp;#39;s group on AI safety research. 
+&lt;br&gt;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:53:54</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/37921589/37921589-1685134100850-fc8f5bac6443c.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Preventing State Bioweapons Development & Use: Shaping Intentions | Jaime Yassif | EAG Bay Area 23]]></title>
+			<description><![CDATA[<p><a href="https://youtu.be/M5L_1N5OzjM" target="_blank" rel="noopener noreferer">Watch on Youtube</a></p>
+<p><br></p>
+<p>To prevent severe biological events that could rise to the level of a global catastrophic biological risk (GCBR), it will be critical to prevent pandemics that could result from accidental or deliberate misuse of the tools of modern bioscience and biotechnology. State development and use of biological weapons is among the most likely potential sources of GCBRs, but international systems for preventing and constraining state bioweapons programs are weak. 
+
+This session is focusing on the actions the international community can take to address this challenge and disincentivize states from pursuing such programs.
+
+Jaime Yassif serves as Vice President of NTI Global Biological Policy and Programs (NTI | bio). In this role, she oversees NTI | bio’s work to reduce global catastrophic biological risks, strengthen biosecurity and pandemic preparedness, and drive progress in advancing global health security.</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/eagtalks/episodes/Preventing-State-Bioweapons-Development--Use-Shaping-Intentions--Jaime-Yassif--EAG-Bay-Area-23-e24oehb</link>
+			<guid isPermaLink="false">07da0b86-3657-4c2e-b8db-3239df9a1f04</guid>
+			<dc:creator><![CDATA[Aaron Bergman]]></dc:creator>
+			<pubDate>Fri, 26 May 2023 21:23:42 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/e2a05734/podcast/play/71104491/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-4-26%2F347d54c9-8b90-ce21-fe08-55fe9bee2c4c.mp3" length="48509012" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;&lt;a href=&quot;https://youtu.be/M5L_1N5OzjM&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;Watch on Youtube&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;To prevent severe biological events that could rise to the level of a global catastrophic biological risk (GCBR), it will be critical to prevent pandemics that could result from accidental or deliberate misuse of the tools of modern bioscience and biotechnology. State development and use of biological weapons is among the most likely potential sources of GCBRs, but international systems for preventing and constraining state bioweapons programs are weak. 
+
+This session is focusing on the actions the international community can take to address this challenge and disincentivize states from pursuing such programs.
+
+Jaime Yassif serves as Vice President of NTI Global Biological Policy and Programs (NTI | bio). In this role, she oversees NTI | bio’s work to reduce global catastrophic biological risks, strengthen biosecurity and pandemic preparedness, and drive progress in advancing global health security.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:50:31</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/37921589/37921589-1685134100850-fc8f5bac6443c.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Fireside chat: Russia, Ukraine and NATO | Rose Gottemoeller | EAG Bay Area 23]]></title>
+			<description><![CDATA[<p><a href="https://youtu.be/MdDvKpTJTBQ" target="_blank" rel="noopener noreferer">Watch on Youtube</a></p>
+<p><br></p>
+<p>A fireside chat with Rose Gottemoeller, the Steven Hazy Lecturer at Stanford’s Center for International Security and Cooperation and former Deputy Secretary General of NATO. 
+
+Moderated by Carl Robichaud, the nuclear weapons policy programme officer at Longview Philanthropy, this conversation is exploring the topics of Russia, Ukraine, NATO, and the future of arms control. </p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/eagtalks/episodes/Fireside-chat-Russia--Ukraine-and-NATO--Rose-Gottemoeller--EAG-Bay-Area-23-e24oeg1</link>
+			<guid isPermaLink="false">53969c95-b49d-4cc1-a882-7c1cd1868ea6</guid>
+			<dc:creator><![CDATA[Aaron Bergman]]></dc:creator>
+			<pubDate>Fri, 26 May 2023 21:23:12 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/e2a05734/podcast/play/71104449/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-4-26%2Faa548a8d-0670-1964-976e-98c40451ecf9.mp3" length="53458485" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;&lt;a href=&quot;https://youtu.be/MdDvKpTJTBQ&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;Watch on Youtube&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;A fireside chat with Rose Gottemoeller, the Steven Hazy Lecturer at Stanford’s Center for International Security and Cooperation and former Deputy Secretary General of NATO. 
+
+Moderated by Carl Robichaud, the nuclear weapons policy programme officer at Longview Philanthropy, this conversation is exploring the topics of Russia, Ukraine, NATO, and the future of arms control. &lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:55:41</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/37921589/37921589-1685134100850-fc8f5bac6443c.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Will AI end everything? A guide to guessing | Katja Grace | EAG Bay Area 23]]></title>
+			<description><![CDATA[<p><a href="https://youtu.be/j5Lu01pEDWA" target="_blank" rel="noopener noreferer">Watch on Youtube</a></p>
+<p><br></p>
+<p>Katja gathers arguments, counterarguments, and counter-counterarguments into an educated estimate of AI risk. 
+
+Katja Grace co-founded AI Impacts, where she is the Lead Researcher. She co-wrote purportedly the 16th most discussed paper in the world in 2017, about a big survey of ML researchers, and blogs at worldspiritsockpuppet.com.</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/eagtalks/episodes/Will-AI-end-everything--A-guide-to-guessing--Katja-Grace--EAG-Bay-Area-23-e24oee7</link>
+			<guid isPermaLink="false">a5f4ce4a-c775-4c9f-a901-b587042a6b95</guid>
+			<dc:creator><![CDATA[Aaron Bergman]]></dc:creator>
+			<pubDate>Fri, 26 May 2023 21:22:28 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/e2a05734/podcast/play/71104391/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-4-26%2F1094cbf8-6602-0d2f-7b3d-1e72652fa20b.mp3" length="37687213" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;&lt;a href=&quot;https://youtu.be/j5Lu01pEDWA&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;Watch on Youtube&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Katja gathers arguments, counterarguments, and counter-counterarguments into an educated estimate of AI risk. 
+
+Katja Grace co-founded AI Impacts, where she is the Lead Researcher. She co-wrote purportedly the 16th most discussed paper in the world in 2017, about a big survey of ML researchers, and blogs at worldspiritsockpuppet.com.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:39:15</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/37921589/37921589-1685134100850-fc8f5bac6443c.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[What's new in Open Philanthropy's GH&W work? | James Snowden & Norma Altshuler | EAG Bay Area 23]]></title>
+			<description><![CDATA[<p><a href="https://youtu.be/sMoVOPHGe-k" target="_blank" rel="noopener noreferer">Watch on Youtube</a></p>
+<p>James Snowden and Norma Altshuler give an overview of some of the exciting new work by Open Philanthropy’s global health and wellbeing team, including the launch of several new grantmaking programs.
+
+We’ll then dive deep on one of those programs — Global Aid Policy. Norma Altshuler, who leads that work, outlines things she’s been learning about how to create change, and discuss takeaways about pursuing high-impact careers and contributing to policy change</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/eagtalks/episodes/Whats-new-in-Open-Philanthropys-GHW-work---James-Snowden--Norma-Altshuler--EAG-Bay-Area-23-e24oed0</link>
+			<guid isPermaLink="false">bfbef2e4-dfbb-463d-b787-6bd13deb7078</guid>
+			<dc:creator><![CDATA[Aaron Bergman]]></dc:creator>
+			<pubDate>Fri, 26 May 2023 21:21:35 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/e2a05734/podcast/play/71104352/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-4-26%2Ff1cd4b69-782c-839b-326a-ad1e784388fa.mp3" length="52605012" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;&lt;a href=&quot;https://youtu.be/sMoVOPHGe-k&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;Watch on Youtube&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;James Snowden and Norma Altshuler give an overview of some of the exciting new work by Open Philanthropy’s global health and wellbeing team, including the launch of several new grantmaking programs.
+
+We’ll then dive deep on one of those programs — Global Aid Policy. Norma Altshuler, who leads that work, outlines things she’s been learning about how to create change, and discuss takeaways about pursuing high-impact careers and contributing to policy change&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:54:47</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/37921589/37921589-1685134100850-fc8f5bac6443c.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Nuclear weapons: ethics, law, and the limits of safety | Scott D. Sagan | EAG Bay Area 23]]></title>
+			<description><![CDATA[<p><a href="https://youtu.be/IxSkWu8R3S0" target="_blank" rel="noopener noreferer">Watch on Youtube</a></p>
+<p><br></p>
+<p>A talk by Scott D. Sagan, the Caroline S.G. Munro Professor of Political Science and Co-Director of the Center for International Security and Cooperation at Stanford University
+
+The talk is titled nuclear weapons: ethics, law, and the limits of safety in the 21st century</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/eagtalks/episodes/Nuclear-weapons-ethics--law--and-the-limits-of-safety--Scott-D--Sagan--EAG-Bay-Area-23-e24oebp</link>
+			<guid isPermaLink="false">23b932cd-ad44-4e97-8420-7b33b188b98d</guid>
+			<dc:creator><![CDATA[Aaron Bergman]]></dc:creator>
+			<pubDate>Fri, 26 May 2023 21:20:54 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/e2a05734/podcast/play/71104313/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-4-26%2Fda2354c9-8302-cee6-4d2d-2bbc46fe2e1f.mp3" length="58374939" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;&lt;a href=&quot;https://youtu.be/IxSkWu8R3S0&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;Watch on Youtube&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;A talk by Scott D. Sagan, the Caroline S.G. Munro Professor of Political Science and Co-Director of the Center for International Security and Cooperation at Stanford University
+
+The talk is titled nuclear weapons: ethics, law, and the limits of safety in the 21st century&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>01:00:48</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/37921589/37921589-1685134100850-fc8f5bac6443c.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Opening session: Toby Ord | Toby Ord | EAG Bay Area 23]]></title>
+			<description><![CDATA[<p><a href="https://youtu.be/3a6xb6vj6AA" target="_blank" rel="noopener noreferer">Watch on Youtube</a></p>
+<p>Join the organizers for a brief welcome, followed by a talk with Toby Ord, a philosopher at Oxford University.
+
+Find out more about EA Global conferences at: www.eaglobal.org
+Learn more about effective altruism at: www.effectivealtruism.org</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/eagtalks/episodes/Opening-session-Toby-Ord--Toby-Ord--EAG-Bay-Area-23-e24oe8l</link>
+			<guid isPermaLink="false">07f26444-2018-4dba-a87b-1fd29a4e8270</guid>
+			<dc:creator><![CDATA[Aaron Bergman]]></dc:creator>
+			<pubDate>Fri, 26 May 2023 21:19:23 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/e2a05734/podcast/play/71104213/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-4-26%2F067a0f9d-e6db-96bb-9fae-ecea5037f50b.mp3" length="36872193" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;&lt;a href=&quot;https://youtu.be/3a6xb6vj6AA&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;Watch on Youtube&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Join the organizers for a brief welcome, followed by a talk with Toby Ord, a philosopher at Oxford University.
+
+Find out more about EA Global conferences at: www.eaglobal.org
+Learn more about effective altruism at: www.effectivealtruism.org&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:38:24</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/37921589/37921589-1685134100850-fc8f5bac6443c.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Workshop: Impostor syndrome | Kat Woods | EAG Bay Area 23]]></title>
+			<description><![CDATA[<p><a href="https://youtu.be/vhgFELxmh_A" target="_blank" rel="noopener noreferer">Watch on Youtube</a></p>
+<p>A hands-on workshop to help you with your impostor syndrome. 
+
+In this session, you’ll:
+- Investigate the potential causes of your impostor syndrome
+- Experiment with different techniques to eliminate your impostor syndrome
+- Come up with a practical plan to implement these strategies in your life
+
+Find out more about EA Global conferences at: www.eaglobal.org
+Learn more about effective altruism at: www.effectivealtruism.org</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/eagtalks/episodes/Workshop-Impostor-syndrome--Kat-Woods--EAG-Bay-Area-23-e24oe6v</link>
+			<guid isPermaLink="false">54b7e636-c0a2-4d2b-af31-17bccbdc6d4d</guid>
+			<dc:creator><![CDATA[Aaron Bergman]]></dc:creator>
+			<pubDate>Fri, 26 May 2023 21:18:20 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/e2a05734/podcast/play/71104159/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-4-26%2F641659e3-527b-a4d5-c256-333cf906911c.mp3" length="38947778" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;&lt;a href=&quot;https://youtu.be/vhgFELxmh_A&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;Watch on Youtube&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;A hands-on workshop to help you with your impostor syndrome. 
+
+In this session, you’ll:
+- Investigate the potential causes of your impostor syndrome
+- Experiment with different techniques to eliminate your impostor syndrome
+- Come up with a practical plan to implement these strategies in your life
+
+Find out more about EA Global conferences at: www.eaglobal.org
+Learn more about effective altruism at: www.effectivealtruism.org&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:40:34</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/37921589/37921589-1685134100850-fc8f5bac6443c.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Workshop: Improve your decision-making | Spencer Greenberg | EAG Bay Area 23]]></title>
+			<description><![CDATA[<p><a href="https://youtu.be/wHJrGl2osz0" target="_blank" rel="noopener noreferer">Watch on Youtube</a></p>
+<p><br></p>
+<p>Bring a decision you&#39;re grappling with to this interactive decision-making workshop. Spencer is teaching elements of good decision-making and have you apply them to a real decision you need to make.
+
+You can download the decision-making worksheet here (<a href="https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbEFacE5xcFUtMnNqUkJVQ3lpQThIOXFRU3VpQXxBQ3Jtc0tuLXRuTWpEc0dGeFZYZWV3Z011YkxKalRMX0dJYi1jak9FeHpaMUh2UWZFQjhNTlllMVZvR1ZyWmowX0xMa2hDT3lYdjRMdWxIZzJhc0tHRUtnQkcxelZ4WnAwZXpocGREMXRveEUxb2dSUTNVSXB1QQ&q=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1oI47Ji9igo5_C7erxShQnIp_Q5wWLtzU%2Fview&v=wHJrGl2osz0" target="_blank" rel="nofollow">https://drive.google.com/file/d/1oI47...</a>) and follow along with this workshop. 
+
+Spencer is an entrepreneur and mathematician with a focus on improving human well-being through social science. He&#39;s the founder of ClearerThinking.org, which provides more than 70 free tools and training programs related to topics like decision-making and cognitive biases, used by hundreds of thousands of people. He&#39;s also the founder of Spark Wave, a startup foundry that creates novel software products from scratch designed to solve problems in the world.
+
+Find out more about EA Global conferences at: www.eaglobal.org
+Learn more about effective altruism at: www.effectivealtruism.org</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/eagtalks/episodes/Workshop-Improve-your-decision-making--Spencer-Greenberg--EAG-Bay-Area-23-e24oe4s</link>
+			<guid isPermaLink="false">46d8008b-7e1a-42b2-97f1-dfdba19b1951</guid>
+			<dc:creator><![CDATA[Aaron Bergman]]></dc:creator>
+			<pubDate>Fri, 26 May 2023 21:17:23 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/e2a05734/podcast/play/71104092/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-4-26%2Fc8d0b493-936a-1790-31bd-19766f45fc3c.mp3" length="20535422" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;&lt;a href=&quot;https://youtu.be/wHJrGl2osz0&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;Watch on Youtube&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Bring a decision you&amp;#39;re grappling with to this interactive decision-making workshop. Spencer is teaching elements of good decision-making and have you apply them to a real decision you need to make.
+
+You can download the decision-making worksheet here (&lt;a href=&quot;https://www.youtube.com/redirect?event=video_description&amp;redir_token=QUFFLUhqbEFacE5xcFUtMnNqUkJVQ3lpQThIOXFRU3VpQXxBQ3Jtc0tuLXRuTWpEc0dGeFZYZWV3Z011YkxKalRMX0dJYi1jak9FeHpaMUh2UWZFQjhNTlllMVZvR1ZyWmowX0xMa2hDT3lYdjRMdWxIZzJhc0tHRUtnQkcxelZ4WnAwZXpocGREMXRveEUxb2dSUTNVSXB1QQ&amp;q=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1oI47Ji9igo5_C7erxShQnIp_Q5wWLtzU%2Fview&amp;v=wHJrGl2osz0&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;https://drive.google.com/file/d/1oI47...&lt;/a&gt;) and follow along with this workshop. 
+
+Spencer is an entrepreneur and mathematician with a focus on improving human well-being through social science. He&amp;#39;s the founder of ClearerThinking.org, which provides more than 70 free tools and training programs related to topics like decision-making and cognitive biases, used by hundreds of thousands of people. He&amp;#39;s also the founder of Spark Wave, a startup foundry that creates novel software products from scratch designed to solve problems in the world.
+
+Find out more about EA Global conferences at: www.eaglobal.org
+Learn more about effective altruism at: www.effectivealtruism.org&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:21:23</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/37921589/37921589-1685134100850-fc8f5bac6443c.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[GiveWell's new interventions | Olivia Larsen | EAG Bay Area 23]]></title>
+			<description><![CDATA[<p><a href="https://youtu.be/MGAgeNI8iyo" target="_blank" rel="noopener noreferer">Watch on Youtube</a></p>
+<p>In 2022, GiveWell allocated over $80 million to 18 new interventions, including an RCT of footbridges in Rwanda, Kangaroo Mother Care, and in-line chlorination. 
+
+In this talk, Olivia Larsen, GiveWell Philanthropy Advisor, is sharing about some of the more experimental grants that GiveWell is currently excited about–including funding RCTs, programs to build and scale future giving opportunities, and programs that work with outcome metrics outside of lives saved and incomes increased!
+
+Find out more about EA Global conferences at: www.eaglobal.org
+Learn more about effective altruism at: www.effectivealtruism.org</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/eagtalks/episodes/GiveWells-new-interventions--Olivia-Larsen--EAG-Bay-Area-23-e24oe39</link>
+			<guid isPermaLink="false">eff1033c-4af9-4250-8119-aa442772fc06</guid>
+			<dc:creator><![CDATA[Aaron Bergman]]></dc:creator>
+			<pubDate>Fri, 26 May 2023 21:16:28 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/e2a05734/podcast/play/71104041/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-4-26%2F6ed02656-d996-8faa-d3a1-d0d66992c1a4.mp3" length="49247546" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;&lt;a href=&quot;https://youtu.be/MGAgeNI8iyo&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;Watch on Youtube&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;In 2022, GiveWell allocated over $80 million to 18 new interventions, including an RCT of footbridges in Rwanda, Kangaroo Mother Care, and in-line chlorination. 
+
+In this talk, Olivia Larsen, GiveWell Philanthropy Advisor, is sharing about some of the more experimental grants that GiveWell is currently excited about–including funding RCTs, programs to build and scale future giving opportunities, and programs that work with outcome metrics outside of lives saved and incomes increased!
+
+Find out more about EA Global conferences at: www.eaglobal.org
+Learn more about effective altruism at: www.effectivealtruism.org&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:51:17</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/37921589/37921589-1685134100850-fc8f5bac6443c.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Workshop: How can we have better online discussions? | Lizka Vaintrob | EAG Bay Area 23]]></title>
+			<description><![CDATA[<p><a href="https://youtu.be/lMCipmKOAlE" target="_blank" rel="noopener noreferer">Watch on YouTube</a></p>
+<p>In this workshop about online communication (on the EA Forum and elsewhere), we’re brainstorming and developing thoughts on the following questions:
+What can online communication and discussions achieve? What’s the point?
+Given the goals we have, what makes discussions or communication more useful?
+What norms do we want to support to encourage that?
+
+Practical tips: What tools can we use? When should we take discussions offline? Etc. And more.
+Then we’ll spend a bit of time talking about how we can apply this to specific discussions we think are important.
+
+Lizka runs the EA Newsletter, the EA Forum Digest, and the non-engineering side of the EA Forum at the Centre for Effective Altruism, and helps with a wide range of other content projects.
+
+Find out more about EA Global conferences at: www.eaglobal.org
+Learn more about effective altruism at: www.effectivealtruism.org</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/eagtalks/episodes/Workshop-How-can-we-have-better-online-discussions---Lizka-Vaintrob--EAG-Bay-Area-23-e24ocg9</link>
+			<guid isPermaLink="false">48f6c73c-cfd7-4312-8b3a-cc46cd91923c</guid>
+			<dc:creator><![CDATA[Aaron Bergman]]></dc:creator>
+			<pubDate>Fri, 26 May 2023 20:55:09 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/e2a05734/podcast/play/71102409/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-4-26%2F8fa18b13-024c-e6c1-74ab-18cd9c5be38c.mp3" length="45049564" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;&lt;a href=&quot;https://youtu.be/lMCipmKOAlE&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;In this workshop about online communication (on the EA Forum and elsewhere), we’re brainstorming and developing thoughts on the following questions:
+What can online communication and discussions achieve? What’s the point?
+Given the goals we have, what makes discussions or communication more useful?
+What norms do we want to support to encourage that?
+
+Practical tips: What tools can we use? When should we take discussions offline? Etc. And more.
+Then we’ll spend a bit of time talking about how we can apply this to specific discussions we think are important.
+
+Lizka runs the EA Newsletter, the EA Forum Digest, and the non-engineering side of the EA Forum at the Centre for Effective Altruism, and helps with a wide range of other content projects.
+
+Find out more about EA Global conferences at: www.eaglobal.org
+Learn more about effective altruism at: www.effectivealtruism.org&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:46:55</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/37921589/37921589-1685134100850-fc8f5bac6443c.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[First timers at EA Global Elika Somani EAG Bay Area 23]]></title>
+			<description><![CDATA[<p><a href="https://www.youtube.com/watch?v=2nwp_E3ouSs" target="_blank" rel="noopener noreferer">Watch on Youtube</a></p>
+<p>This session is a brief overview of how to get the most out of EA Global, and provides an opportunity to meet with other first-time attendees.
+
+Find out more about EA Global conferences at: www.eaglobal.org
+Learn more about effective altruism at: www.effectivealtruism.org</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/eagtalks/episodes/First-timers-at-EA-Global-Elika-Somani-EAG-Bay-Area-23-e24oc2c</link>
+			<guid isPermaLink="false">5369098f-aaa4-4c68-8b43-3f3af0b7d5f3</guid>
+			<dc:creator><![CDATA[Aaron Bergman]]></dc:creator>
+			<pubDate>Fri, 26 May 2023 20:48:28 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/e2a05734/podcast/play/71101964/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-4-26%2F7ade001e-f4bc-50cf-3dd9-f1e08497b90b.mp3" length="30136781" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=2nwp_E3ouSs&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;Watch on Youtube&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;This session is a brief overview of how to get the most out of EA Global, and provides an opportunity to meet with other first-time attendees.
+
+Find out more about EA Global conferences at: www.eaglobal.org
+Learn more about effective altruism at: www.effectivealtruism.org&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:31:23</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/37921589/37921589-1685134100850-fc8f5bac6443c.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+	</channel>
+</rss>
